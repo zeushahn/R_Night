@@ -14,3 +14,6 @@ R 프로그래밍 활용 빅데이터 분석
 
 ## 그래프 종류
 ![그래프](https://github.com/user-attachments/assets/081cd217-2704-469e-bbbd-4e06622c5d37)
+
+## Plot symbol
+![plot](https://github.com/user-attachments/assets/6bd62bb4-7856-41b2-ad74-e13c4e52a4b3)
