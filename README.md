@@ -8,3 +8,6 @@ R 프로그래밍 활용 빅데이터 분석
     library(showtext)
     font_add_google("Noto Sans KR", family = "notosanskr")
     showtext_auto()
+
+## 선 종류
+https://github.com/zeushahn/R_Night/issues/1#issue-2455549132
