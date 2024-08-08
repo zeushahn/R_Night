@@ -10,7 +10,7 @@ R 프로그래밍 활용 빅데이터 분석
     showtext_auto()
 
 ## 선 종류
-![선종류](https://github.com/user-attachments/assets/30b46a79-7ccf-4a70-bbb7-156088010212)
+
 
 ## 그래프 종류
 ![그래프](https://github.com/user-attachments/assets/081cd217-2704-469e-bbbd-4e06622c5d37)
